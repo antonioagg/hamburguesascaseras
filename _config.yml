@@ -73,7 +73,6 @@ disqus_shortname: http-www-hamburguesascaseras-es
 # robotstxt generator
 plugins:
 hexo-generator-robotstxt
-
 robotstxt:
   useragent: "*"
   disallow:
