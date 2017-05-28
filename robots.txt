@@ -1,22 +1,9 @@
-  useragent: "*"
+  useragent: *
+  allow: /
   disallow:
-     /guestbook/
-     /history/
-     /js/
-     /css/
-     /atom.xml
-     /search.xmll
-  allow:
-     /about/
-     /archives/
-     /page/*/
-     /categories/*/
-     /tags/*/
-     /images/
-     /*.jpg$
-     /*.jpeg$
-     /*.gif$
-     /*.png$
-     /*.bmp$
-     /images/
-  sitemap: /sitemap.xml
+  disallow: /history/
+  disallow: /js/
+  disallow: /css/
+  disallow: /atom.xml
+  disallow: /search.xmll
+  sitemap: https://www.hamburguesascaseras.es/sitemap.xml
