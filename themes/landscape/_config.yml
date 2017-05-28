@@ -11,7 +11,7 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-    
+
 # Content
 excerpt_link: Read More
 fancybox: true
@@ -25,6 +25,13 @@ widgets:
 - archive
 - recent_posts
 # - twitterfeed
+
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: /sitemap.xml
+
 
 # Sitemap
 sitemap:
