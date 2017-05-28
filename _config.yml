@@ -70,15 +70,6 @@ disqus_shortname: http-www-hamburguesascaseras-es
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-# robotstxt generator
-plugins:
-- hexo-generator-robotstxt
-robotstxt:
-  useragent: "*"
-  allow:
-    - /
-  sitemap: /sitemap.xml
-
 ## Themes: https://hexo.io/themes/
 # theme: bootstrap-blog
 theme: landscape
