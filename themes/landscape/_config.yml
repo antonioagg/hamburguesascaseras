@@ -30,7 +30,7 @@ widgets:
 
 # robotstxt generator
 plugins:
-- hexo-generator-robotstxt
+hexo-generator-robotstxt
 
 robotstxt:
   useragent: "*"
@@ -57,8 +57,6 @@ robotstxt:
   sitemap: /sitemap.xml
 
 # Sitemap
-sitemap:
-    path: sitemap.xml
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
