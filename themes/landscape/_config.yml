@@ -11,9 +11,7 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-
-
-
+    
 # Content
 excerpt_link: Read More
 fancybox: true
