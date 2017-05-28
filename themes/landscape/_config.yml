@@ -1,0 +1,80 @@
+# Header
+menu:
+  Home: /
+  Archivos: /archives
+  Sobre Mi: /Sobre-Mi
+rss: /atom.xml
+
+# adding RSS feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
+
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+# - twitterfeed
+
+# robotstxt generator
+plugins:
+- hexo-generator-robotstxt
+
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /guestbook/
+    - /history/
+    - /js/
+    - /css/
+    - /atom.xml
+    - /search.xmll
+  allow:
+    - /about/
+    - /archives/
+    - /page/*/
+    - /categories/*/
+    - /tags/*/
+    - /images/
+    - /*.jpg$
+    - /*.jpeg$
+    - /*.gif$
+    - /*.png$
+    - /*.bmp$
+    - /images/
+  sitemap: /sitemap.xml
+
+# Sitemap
+sitemap:
+    path: sitemap.xml
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+favicon: \favicon.png
+twitter: hamburgcaseras
+google_plus: 113312808511491158489
+pinterest: hamburguesascaseras
+fb_admins:
+fb_app_id:

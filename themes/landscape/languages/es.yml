@@ -1,0 +1,19 @@
+categories: Categorias
+search: Busqueda
+tags: Etiquetas
+tagcloud: Nube de Etiquetas
+tweets: Tweets
+prev: Anterior
+next: Siguiente
+comment: Commentarios
+archive_a: Archivos
+archive_b: "Archivos: %s"
+page: Página %d
+recent_posts: Post Recientes
+newer: Últimos
+older: Antiguos
+share: Comparte
+powered_by: Powered by
+rss_feed: RSS Feed
+category: Categoria
+tag: Etiqueta
