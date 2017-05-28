@@ -26,13 +26,6 @@ widgets:
 - recent_posts
 # - twitterfeed
 
-robotstxt:
-  useragent: "*"
-  allow:
-    - /
-  sitemap: /sitemap.xml
-
-
 # Sitemap
 sitemap:
     path: sitemap.xml
