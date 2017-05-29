@@ -6,10 +6,7 @@
 title: Hamburguesas Caseras
 subtitle:
 description: Recetas de hamburguesas y salsas caseras
-author: AAGG          # displays the post's author
-#photos:               # displays a Bootstrap thumbnail gallery
-#img/HNCK0537.jpg
-#img/default-banner-dark.jpg
+author: AAGG          
 email:
 language: es
 timezone: Europe/Madrid

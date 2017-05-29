@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archivos: /archives
-  Sobre Mi: /Sobre-Mi
+  Sobre Mi: Sobre-Mi
 rss: /atom.xml
 
 # adding RSS feed
@@ -25,32 +25,6 @@ widgets:
 - archive
 - recent_posts
 # - twitterfeed
-
-- hexo-generator-robotstxt
- robotstxt:
-   useragent: "*"
-  disallow:
-    - /guestbook/
-    - /history/
-    - /js/
-    - /css/
-    - /atom.xml
-    - /search.xmll
-   allow:
-    - /about/
-    - /archives/
-    - /page/*/
-    - /categories/*/
-    - /tags/*/
-    - /images/
-    - /*.jpg$
-    - /*.jpeg$
-    - /*.gif$
-    - /*.png$
-    - /*.bmp$
-    - /images/
-
-   sitemap: /sitemap.xml
 
 # Sitemap
 sitemap:
