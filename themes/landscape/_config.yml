@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archivos: /archives
-  Sobre Mi: Sobre-Mi
+  Sobre Mi: /Sobre-Mi
 rss: /atom.xml
 
 # adding RSS feed
@@ -46,5 +46,5 @@ favicon: \favicon.png
 twitter: hamburgcaseras
 google_plus: 113312808511491158489
 pinterest: hamburguesascaseras
-fb_admins:
-fb_app_id:
+fb_admins: tonybonano
+fb_app_id: Hamburguesascaseras-854565941348167
