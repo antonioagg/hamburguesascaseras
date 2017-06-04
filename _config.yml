@@ -6,7 +6,7 @@
 title: Hamburguesas Caseras
 subtitle:
 description: Recetas de hamburguesas y salsas caseras
-author: AAGG          
+author: AAGG
 email:
 language: es
 timezone: Europe/Madrid
@@ -68,6 +68,8 @@ disqus_shortname: http-www-hamburguesascaseras-es
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+google_analytics: UA-100401749-1
+
 # theme: bootstrap-blog
 theme: landscape
 # Deployment
