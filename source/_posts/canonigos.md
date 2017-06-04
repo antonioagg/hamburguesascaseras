@@ -22,7 +22,7 @@ Con canonigos, cebolla huevo codorniz Y Con lacón y rodaja d tomate y salsa d m
 ### Ingredientes
 
 - Pan
-- [Carne de ternera](/Carne de ternera/)
+- Carne de ternera
 - Cebolla
 - Lacón
 - Huevos de codorniz
