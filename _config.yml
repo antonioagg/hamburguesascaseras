@@ -68,6 +68,7 @@ disqus_shortname: http-www-hamburguesascaseras-es
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+# Google Analytics Tracking ID
 google_analytics: UA-100401749-1
 
 # theme: bootstrap-blog
