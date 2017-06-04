@@ -2,8 +2,6 @@
 menu:
   Home: /
   Archivos: /archives
-  Tags: /tags
-  Categories: /categories
   Sobre Mi: /Sobre-Mi
 rss: /atom.xml
 
