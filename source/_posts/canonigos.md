@@ -73,13 +73,20 @@ Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
 Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza antigua y las servimos inmediatamente, con  una guarnición de patatas de lujo.
 
-{% asset_img canonigos2.jpg.jpg Cerveza %}
+---
 
+{% asset_img canonigos2.jpg.jpg Plato %}
+
+---
 
 
 En nuestro caso la hemos acompañado de una buena Straffe Hendrik triple rubia, cereveza belga con extraordinarios sabores de malta y lúpulo, con alto contenido alcohólico y son ricas en sabores y gustos.
 
+---
+
 {% asset_img strafft.jpg.jpg Cerveza %}
+
+---
 
 ¿Qué os parece la receta?
 

@@ -10,7 +10,7 @@ comments: true
 date: 2017-06-10 08:14:12
 ---
 ---
-{% asset_img patatas.jpg Hamburguesa %}
+{% asset_img patatas.jpg Patatas de Lujo %}
 
 
 ---
