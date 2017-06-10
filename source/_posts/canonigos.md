@@ -75,7 +75,7 @@ Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza a
 
 ---
 
-{% asset_img canonigos2.jpg.jpg Plato %}
+{% asset_img canonigos2.jpg Plato %}
 
 ---
 
@@ -84,7 +84,7 @@ En nuestro caso la hemos acompañado de una buena Straffe Hendrik triple rubia, 
 
 ---
 
-{% asset_img strafft.jpg.jpg Cerveza %}
+{% asset_img strafft.jpg Cerveza %}
 
 ---
 
