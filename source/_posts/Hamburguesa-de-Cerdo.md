@@ -14,7 +14,7 @@ comments: true
 date: 2017-06-09 06:14:11
 ---
 ---
-{% asset_img canonigos.jpg Hamburguesa %}
+{% asset_img Hamburguesa-de-Cerdo.jpg Hamburguesa %}
 
 
 ---
@@ -75,7 +75,7 @@ Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza a
 
 ---
 
-{% asset_img canonigos2.jpg Plato %}
+{% asset_img Hamburguesa-de-Cerdo2.jpg Hamburguesa %}
 
 ---
 
