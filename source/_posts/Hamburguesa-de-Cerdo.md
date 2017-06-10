@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Cerdo con Salsa de Mostaza y guarnición de patatas de lujo
+title: Hamburguesa de Cerdo con Salsa de Mostaza
 
 tags:
 - Hamburguesas
@@ -8,13 +8,12 @@ tags:
 - Carne de Cerdo
 categories :
 - Hamburguesas
-- Salsas
-- Guarniciones
+
 comments: true
 date: 2017-06-09 06:14:11
 ---
 ---
-{% asset_img Hamburguesa-de-Cerdo.jpg Hamburguesa %}
+{% asset_img Hamburguesa-de-Cerdo.jpg Hamburguesa de Cerdo con Salsa de Mostaza %}
 
 
 ---
@@ -45,9 +44,6 @@ Su textura granulada, pero suave, con una intensidad de sabor medio, la hace ide
 - 1 puñado de hojas de espinacas frescas
 - Mostaza antigua
 - 4 panecillos
-- 4 patatas grandes nuevas
-- 2 cucharadas grandes de harina
-- 1 cucharadita de pimentón dulce
 
 ### Preparación
 
@@ -71,11 +67,13 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza antigua y las servimos inmediatamente, con  una guarnición de patatas de lujo.
+Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza antigua y las servimos inmediatamente, con  una guarnición de patatas de lujo {% post_link Patatas-de-Lujo %}.
+.
+
 
 ---
 
-{% asset_img Hamburguesa-de-Cerdo2.jpg Hamburguesa %}
+{% asset_img Hamburguesa-de-Cerdo2.jpg Hamburguesa de Cerdo con Salsa de Mostaza con Patatas de Lujo %}
 
 ---
 
@@ -84,7 +82,7 @@ En nuestro caso la hemos acompañado de una buena Straffe Hendrik triple rubia, 
 
 ---
 
-{% asset_img strafft.jpg Cerveza %}
+{% asset_img strafft.jpg Cerveza Straffe Hendrik%}
 
 ---
 
