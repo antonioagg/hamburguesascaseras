@@ -66,8 +66,8 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza antigua y las servimos inmediatamente, con  una guarnición de patatas de lujo {% post_link Patatas-de-Lujo %}.
-.
+Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza antigua y las servimos inmediatamente, con  una guarnición de {% post_link Patatas-de-Lujo %}.
+
 
 
 ---
