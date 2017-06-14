@@ -1,13 +1,12 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Cerdo con Salsa de Mostaza
+title: Hamburguesa Casera de Cerdo con Salsa de Mostaza
 
 tags:
 - Hamburguesas
-- Salsas
 - Carne de Cerdo
 categories :
-- Hamburguesas
+- Hamburguesas Caseras
 
 comments: true
 date: 2017-06-09 06:14:11
@@ -25,7 +24,7 @@ Además es una carne que ocupa un lugar destacado en nuestra alimentación por l
 
 Vamos a acompañarla con una salsa de mostaza antigua. Existen diferentes tipos de mostaza en el mercado (mostaza inglesa, americana, dulce, mostaza de Dijon, alemana, negra, picante incluso el conocido wassabi japonés está hecho a partir de un rábano picante de la familia de la mostaza wasabia japónica).
 
-Para esta receta utilizaremos mostaza a la antigua. De origen francés y elaborada a partir de semillas de mostaza enteras, vinagre, sal y ácido cítrico.
+Para elaborar estas Hamburguesas Caseras de Cerdo utilizaremos mostaza a la antigua. De origen francés y elaborada a partir de semillas de mostaza enteras, vinagre, sal y ácido cítrico.
 
 Su textura granulada, pero suave, con una intensidad de sabor medio, la hace ideal para acompañar una hamburguesa.
 
