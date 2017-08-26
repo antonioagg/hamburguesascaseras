@@ -40,14 +40,18 @@ index_widgets:
 archive_type: 'monthly'
 show_count: false
 
-# Site Verification for Google
+# Other Services
 google-site-verification: -O9TBic0q6AxstDKl1Jeg-FyNMsekiBTiONCKiRK1eg
-
-# Miscellaneous
 google_analytics:
 favicon: \favicon.png
+
+# Open graph
 twitter: hamburgcaseras
 google_plus: 113312808511491158489
 pinterest: hamburguesascaseras
+facebook: Hamburguesascaseras-854565941348167/
 fb_admins: tonybonano
 fb_app_id: Hamburguesascaseras-854565941348167
+
+
+
