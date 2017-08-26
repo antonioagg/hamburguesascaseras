@@ -9,8 +9,6 @@ tags:
 - Panes
 categories :
 - Hamburguesas Caseras
-- Salsas Caseras
-- Panes Caseros
 
 comments: true
 date: 2017-08-26 09:10:57
