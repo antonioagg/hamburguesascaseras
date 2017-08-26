@@ -35,11 +35,7 @@
         pinterest:      theme.miscellaneous.open_graph.pinterest,
         
     }) %>
-    <%- meta(page) %>
 
-    <% if (theme.customize && theme.customize.social_links && theme.customize.social_links.rss) { %>
-        <link rel="alternate" href="<%- theme.customize.social_links.rss %>" title="<%= config.title %>" type="application/atom+xml" />
-    <% } %>
 
   <% if (theme.rss){ %>
     <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
