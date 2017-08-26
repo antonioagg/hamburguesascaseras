@@ -7,7 +7,6 @@ tags:
 - Bollos
 - Panes
 categories :
-- Hamburguesas Caseras
 - Panes Caseros
 
 comments: true
