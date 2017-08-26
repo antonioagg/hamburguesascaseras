@@ -40,11 +40,12 @@ index_widgets:
 archive_type: 'monthly'
 show_count: false
 
-# Site Verification for Google a
+# Site Verification for Google
 google-site-verification: -O9TBic0q6AxstDKl1Jeg-FyNMsekiBTiONCKiRK1eg
 
 # Miscellaneous
 google_analytics:
+google-site-verification: -O9TBic0q6AxstDKl1Jeg-FyNMsekiBTiONCKiRK1eg
 favicon: \favicon.png
 twitter: hamburgcaseras
 google_plus: 113312808511491158489
