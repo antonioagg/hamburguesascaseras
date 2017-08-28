@@ -78,6 +78,6 @@ Retiramos la bandeja del horno y dejamos que los bollos se enfríen en la bandej
 Suavemente pasamos los bollos a una rejilla de alambre.
 Derretimos 2 cucharadas de mantequilla adicional y pintamos las copas de los rollos.
 
-¿Os animáis a probarlos?
+¿Os animáis a probarlas?
 
 Podéis dejar vuestras opiniones en la sección de comentarios.
