@@ -77,7 +77,7 @@ Decoramos las hamburguesas con las hojas de espinas, tomate, cebolla y mostaza a
 ---
 
 
-En nuestro caso la hemos acompañado de una buena Straffe Hendrik triple rubia, cereveza belga con extraordinarios sabores de malta y lúpulo, con alto contenido alcohólico y son ricas en sabores y gustos.
+En nuestro caso la hemos acompañado de una buena Straffe Hendrik triple rubia, cerveza belga con extraordinarios sabores de malta y lúpulo, con alto contenido alcohólico y son ricas en sabores y gustos.
 
 ---
 
