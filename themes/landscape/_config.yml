@@ -6,11 +6,15 @@ menu:
 rss: /atom.xml
 
 # adding RSS feed
+
 feed:
   type: atom
   path: atom.xml
   limit: 20
   hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
 
 # Content
 excerpt_link: Read More
