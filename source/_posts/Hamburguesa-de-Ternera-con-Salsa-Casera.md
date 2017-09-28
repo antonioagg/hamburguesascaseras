@@ -30,6 +30,7 @@ date: 2017-09-28 06:12:27
 - 1 tomate
 - 1 Cebolla
 - 150 gr de queso partido en lonchas.
+- - Salsa Casera {% post_link Salsa-casera %}
 - 8 lonchas de pepinillos dulces
 - 8 lonchas de bacon
 - 4 panecillos
@@ -55,7 +56,7 @@ Sin apagar el fuego añadimos las hamburguesas y las cocinamos hasta que se form
 
 Retiramos las hamburguesas y las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con bacon, con tomate, cebolla, huevo frito, pepinillos, salsa casera y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con bacon, con tomate, cebolla, huevo frito, pepinillos, salsa casera {% post_link Salsa-casera %} y las servimos inmediatamente.
 
 ¿Qué os parece la receta?
 
