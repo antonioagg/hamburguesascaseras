@@ -19,7 +19,7 @@ date: 2017-06-14 06:28:18
 ---
 Siguiendo con las alternativas a la carne de ternera, en esta ocasión vamos a preparar nuestras hamburguesas caseras con carne de pavo, una carne baja en grasa y poco calórica que la hace ser una de las mejores carnes magras y mas sanas del mercado.
 
-Además le vamos a añadir a la carne pimientp rojo y zanahoria para aportarle algo mas de savor a la carne, además de introducir una par de verduras a nuestra carne de hamburguesa.
+Además le vamos a añadir a la carne pimientp rojo y zanahoria para aportarle algo mas de sabor a la carne, además de introducir una par de verduras a nuestra carne de hamburguesa.
 
 Si teneis niños en casa, esta receta es una buena opción para cenar.
 
