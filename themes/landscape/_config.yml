@@ -28,6 +28,7 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
+- links.ejs
 # - twitterfeed
 
 # Sitemap
