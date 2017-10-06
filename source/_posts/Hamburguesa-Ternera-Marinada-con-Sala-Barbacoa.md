@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera Marinada con Salsa Barbacoa
+title: Hamburguesa Casera de Ternera Marinada con Salsa Barbacoa
 
 tags:
 - Hamburguesas
