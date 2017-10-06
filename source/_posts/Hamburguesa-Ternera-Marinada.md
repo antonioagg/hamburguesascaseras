@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera Marinada
+title: Hamburguesa Casera de Ternera Marinada
 
 tags:
 - Hamburguesas
