@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera con crema de queso brie
+title: Hamburguesa Casera de Ternera con crema de queso brie
 
 tags:
 - Hamburguesas
