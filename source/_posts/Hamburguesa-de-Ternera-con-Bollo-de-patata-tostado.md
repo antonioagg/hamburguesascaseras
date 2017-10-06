@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera con Bollo de patata tostado
+title: Hamburguesa Casera de Ternera con Bollo de patata tostado
 
 tags:
 - Hamburguesas
