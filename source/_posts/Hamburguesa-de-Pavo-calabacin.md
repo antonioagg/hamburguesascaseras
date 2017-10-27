@@ -29,7 +29,7 @@ date: 2017-09-28 06:07:29
 - 1/2 cebolla
 - 8 lonchas de queso curado
 - 1 puñado de hojas de lechuga frescas
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
+- {% post_link Salsa-de-tomate-casera %}
 - 4 panecillos
 
 ### Preparación
@@ -56,7 +56,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos las hamburguesas con queso curado, tomate, la cebolla, la salsa de tomate casera {% post_link Salsa-de-tomate-casera %}, la mostaza Colman´s y las servimos inmediatamente, con  una guarnición de patatas al ajo {% post_link Patatas-al-ajo %}.
+Decoramos las hamburguesas con queso curado, tomate, la cebolla, la {% post_link Salsa-de-tomate-casera %}, la mostaza Colman´s y las servimos inmediatamente, con  una guarnición de {% post_link Patatas-al-ajo %}.
 
 
 ¿Qué os parece la receta?

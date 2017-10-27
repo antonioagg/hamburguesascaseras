@@ -26,7 +26,7 @@ date: 2017-08-26 09:04:40
 - 1 cucharadita de Sal de ajo
 - 1 cucharadita de salsa Worcestershire
 - 1 cucharadita de mostaza antigua
-- 1 cucharadita de Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
+- 1 cucharadita de {% post_link Salsa-de-tomate-casera %}
 - 1 huevo
 - 12 lonchas de Bacon ahumado
 - 2 tomates
@@ -37,7 +37,7 @@ date: 2017-08-26 09:04:40
 ### Elaboración
 
 
-En un bol grande, mezclamos la carne picada de Cerdo, el huevo, la cebolla en polvo, la sal de ajo, la pimienta negra, la salsa Worcestershire, la mostaza antigua y la Salsa de tomate casera {% post_link Salsa-de-tomate-casera %} hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
+En un bol grande, mezclamos la carne picada de Cerdo, el huevo, la cebolla en polvo, la sal de ajo, la pimienta negra, la salsa Worcestershire, la mostaza antigua y la {% post_link Salsa-de-tomate-casera %} hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
 
@@ -54,7 +54,7 @@ Sin apagar el fuego añadimos las hamburguesas y las cocinamos hasta que se form
 
 Retiramos las hamburguesas y las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de cerdo con lechuga con tomate, cebolla morada, salsa de tomate casera y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de cerdo con lechuga con tomate, cebolla morada, {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

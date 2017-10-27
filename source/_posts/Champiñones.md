@@ -29,7 +29,7 @@ date: 2017-07-05 05:20:13
 - 1 tomate
 - 8 lonchas de queso Edam
 - 750 gr de champiñones laminados
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
+- {% post_link Salsa-de-tomate-casera %}
 - 4 panecillos
 
 Para la preparación de esta hamburguesa hemos utilizado carne picada de pollo. Me gusta ir variando, utilizando diferentes tipos de carne adaptándome a la gastronomía o a los diferentes gustos de carnes.
@@ -62,7 +62,7 @@ Retiramos las hamburguesas y las trasladamos a un plato.
 
 Las dejamos reposar durante unos minutos.
 
-La parte de abajo de los panecillos la decoramos con una manta de champiñones a la plancha y salsa de tomate natural casera {% post_link Salsa-de-tomate-casera %}, ponemos las hamburguesas encima y las servimos inmediatamente.
+La parte de abajo de los panecillos la decoramos con una manta de champiñones a la plancha y {% post_link Salsa-de-tomate-casera %}, ponemos las hamburguesas encima y las servimos inmediatamente.
 
 
 ¿Qué os parece esta receta de hamburguesas caseras?

@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera Marinada con Salsa Barbacoa
+title: Hamburguesa Casera de Ternera Marinada con Salsa Barbacoa
 
 tags:
 - Hamburguesas
@@ -25,21 +25,21 @@ date: 2017-09-28 05:47:04
 - 1 cucharadita de cebolla en polvo
 - 1/3 cucharadita de sal
 - 1 cucharadita de mostaza Colman´s
-- 4 cucharadas soperas de Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %}
+- 4 cucharadas soperas de {% post_link Salsa-Barbacoa-estilo-texas %}
 - 2 kumacos
 - 1 cebolla
 - 12 lonchas de queso cheddar
 - 6 Huevos
 - 6 lonchas de queso semi-curado
 - 1 puñado de hojas de lechuga frescas
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
+- {% post_link Salsa-de-tomate-casera %}
 - 6 panecillos
 
 ### Preparación
 
 En primer lugar freímos 6 huevos en una sartén con aceite.
 
-Después en un bol grande mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal, la Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %} y la mostaza Colman´s hasta que se combinen bien. No
+Después en un bol grande mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal, la {% post_link Salsa-Barbacoa-estilo-texas %} y la mostaza Colman´s hasta que se combinen bien. No
 hay que presar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
@@ -56,7 +56,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con las hojas de lechuga, tomate, cebolla, huevo frito, las lonchas de queso semi-curado, la Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con las hojas de lechuga, tomate, cebolla, huevo frito, las lonchas de queso semi-curado, la {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

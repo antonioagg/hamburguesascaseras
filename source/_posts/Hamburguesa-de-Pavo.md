@@ -19,7 +19,7 @@ date: 2017-06-14 06:28:18
 ---
 Siguiendo con las alternativas a la carne de ternera, en esta ocasión vamos a preparar nuestras hamburguesas caseras con carne de pavo, una carne baja en grasa y poco calórica que la hace ser una de las mejores carnes magras y mas sanas del mercado.
 
-Además le vamos a añadir a la carne pimientp rojo y zanahoria para aportarle algo mas de savor a la carne, además de introducir una par de verduras a nuestra carne de hamburguesa.
+Además le vamos a añadir a la carne pimientp rojo y zanahoria para aportarle algo mas de sabor a la carne, además de introducir una par de verduras a nuestra carne de hamburguesa.
 
 Si teneis niños en casa, esta receta es una buena opción para cenar.
 
@@ -35,7 +35,7 @@ Si teneis niños en casa, esta receta es una buena opción para cenar.
 - 1/2 cebolla
 - 8 lonchas de queso cheddar
 - 1 puñado de hojas de lechuga frescas
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
+- {% post_link Salsa-de-tomate-casera %}
 - 4 panecillos
 
 ### Preparación
@@ -59,7 +59,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos las hamburguesas con las hojas de lechuga, tomate, cebolla, la salsa de tomate casera {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente, con  una guarnición de patatas al ajo {% post_link Patatas-al-ajo %}.
+Decoramos las hamburguesas con las hojas de lechuga, tomate, cebolla, la {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente, con  una guarnición de {% post_link Patatas-al-ajo %}.
 
 
 ---

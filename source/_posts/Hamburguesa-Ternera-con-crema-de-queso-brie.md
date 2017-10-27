@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera con crema de queso brie
+title: Hamburguesa Casera de Ternera con crema de queso brie
 
 tags:
 - Hamburguesas
@@ -27,9 +27,9 @@ date: 2017-09-28 05:35:30
 - 1 cucharadita de perejil
 - 1 huevo
 - Mostaza de Dijon
-- Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}
+- {% post_link Salsa-Ketchup-Casera %}
 - 1 tarrina de crema de queso brie para untar
-- Cebolla caramelizada {% post_link Cebolla-caramelizada %}
+- {% post_link Cebolla-caramelizada %}
 - 4 tomates
 - 6 pepinillos dulces
 - 6 panes de hamburguesa
@@ -53,7 +53,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con la - Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}, mostaza de Dijon, la crema de queso brie para untar, la Cebolla caramelizada {% post_link Cebolla-Caramelizada %}, pepinillos dulces, los tomates y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con la {% post_link Salsa-Ketchup-Casera %}, mostaza de Dijon, la crema de queso brie para untar, la {% post_link Cebolla-Caramelizada %}, pepinillos dulces, los tomates y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

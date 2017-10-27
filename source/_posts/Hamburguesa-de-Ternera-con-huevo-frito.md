@@ -26,7 +26,7 @@ date: 2017-09-28 05:57:06
 - 1/3 cucharadita de sal
 - 1 cucharadita de salsa Worcestershire
 - 1 cucharadita de mostaza Vieja
-- 1 cucharadita de Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}
+- 1 cucharadita de {% post_link Salsa-Ketchup-Casera %}
 - 2 tomates
 - 1 cebolla
 - 12 lonchas de queso
@@ -38,7 +38,7 @@ date: 2017-09-28 05:57:06
 
 En primer lugar freímos 6 huevos en una sartén con aceite.
 
-Después en un bol grande, batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la salsa Worcestershire y la mostaza vieja hasta que se combinen bien. No
+Después en un bol grande, batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la salsa Worcestershire, {% post_link Salsa-Ketchup-Casera %} y la mostaza vieja hasta que se combinen bien. No
 hay que presar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.

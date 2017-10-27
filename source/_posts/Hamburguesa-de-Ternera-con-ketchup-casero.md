@@ -27,19 +27,19 @@ date: 2017-08-26 09:39:16
 - 1/2 Pimiento Rojo
 - 1/3 Calabacín
 - 1/2 Cebolla morada
-- 2 cucharaditas de Salsa de Ketchup Casera {% post_link Salsa-de-ketchup-casera %}
+- 2 cucharaditas de {% post_link Salsa-de-ketchup-casera %}
 - 2 tomates
 - 1 cebolla morada
 - 12 lonchas de pepinillos dulces
 - 1 puñado de hojas de lechuga frescas
-- Salsa de Ketchup Casera {% post_link Salsa-de-ketchup-casera %}
+- {% post_link Salsa-de-ketchup-casera %}
 - 6 panecillos
 
 ### Elaboración
 
 En primer lugar picamos en juliana el pimiento rojo, el calabacín, la cebolla y reservamos.
 
-En un bol grande, mezclamos la carne picada de Ternera, el pimiento rojo, el calabacín, la cebolla, los huevos y el ketchup hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
+En un bol grande, mezclamos la carne picada de Ternera, el pimiento rojo, el calabacín, la cebolla, los huevos y las 2 cucharaditas de {% post_link Salsa-de-ketchup-casera %} hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
 
@@ -53,7 +53,7 @@ Añadimos las hamburguesas y las cocinamos hasta que se forme una corteza en la 
 
 Retiramos las hamburguesas y las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con las hojas de lechuga, tomate, cebolla morada, pepinillos y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con las hojas de lechuga, tomate, cebolla morada, pepinillos, {% post_link Salsa-de-ketchup-casera %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

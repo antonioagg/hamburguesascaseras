@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera Marinada
+title: Hamburguesa Casera de Ternera Marinada
 
 tags:
 - Hamburguesas
@@ -25,20 +25,20 @@ date: 2017-09-28 05:42:53
 - 1 cucharadita de cebolla en polvo
 - 1/3 cucharadita de sal de ajo
 - 1 cucharadita de mostaza de Dijon
-- 2 cucharadas soperas de Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}
-- 2 cucharadas soperas de Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %}
+- 2 cucharadas soperas de {% post_link Salsa-Ketchup-Casera %}
+- 2 cucharadas soperas de {% post_link Salsa-Barbacoa-estilo-texas %}
 - 1 Huevo
 - 2 lonchas de queso
 - 2 pepinillos dulces
 - 4 lonchas de Bacon
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
-- 8 bollos de patata tostados {% post_link Bollos-de-patata-tostados %}
+- {% post_link Salsa-de-tomate-casera %}
+- 8 bollos de {% post_link Bollos-de-patata-tostados %}
 
 ### Preparación
 
 En primer lugar picamos las lonchas de queso, los pepinillos y las lonchas de bacon, reservamos.
 
-En un bol grande batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal de ajo, los pepinillos, el queso, el Bacon, la Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}, Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %} y la mostaza de Dijon hasta que se combinen bien. No
+En un bol grande batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal de ajo, los pepinillos, el queso, el Bacon, la  {% post_link Salsa-Ketchup-Casera %}, {% post_link Salsa-Barbacoa-estilo-texas %} y la mostaza de Dijon hasta que se combinen bien. No
 hay que presar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
@@ -55,7 +55,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con la Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con la {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

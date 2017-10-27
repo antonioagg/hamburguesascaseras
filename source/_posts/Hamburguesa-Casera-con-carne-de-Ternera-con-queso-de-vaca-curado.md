@@ -25,19 +25,19 @@ date: 2017-08-26 08:47:13
 - 4 lonchas de Bacon picado
 - 4 lonchas de pepinillos dulces picados
 - 2 lonchas de queso de vaca curado picado
-- 1 cucharadita de Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %}
+- 1 cucharadita de {% post_link Salsa-Barbacoa-estilo-texas %}
 - 1/3 cucharadita de sal
 - 1/2 Cebolla morada
 - 2 tomates
 - 12 lonchas de pepinillos dulces
-- Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %}
+- {% post_link Salsa-Barbacoa-estilo-texas %}
 - 6 panecillos
 
 ### Elaboración
 
 En primer lugar picamos el Bacon y reservamos, posteriormente picamos los pepinillos, el queso de vaca curado y reservamos .
 
-En un bol grande, mezclamos la carne picada de Ternera, la cebolla en polvo, la sal, el Bacon picado, los pepinillos picados el queso de vaca, la sal  y la Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %} hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
+En un bol grande, mezclamos la carne picada de Ternera, la cebolla en polvo, la sal, el Bacon picado, los pepinillos picados el queso de vaca, la sal  y la {% post_link Salsa-Barbacoa-estilo-texas %} hasta que se combinen bien. No hay que prensar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
 
@@ -52,7 +52,7 @@ Añadimos las hamburguesas y las cocinamos hasta que se forme una corteza en la 
 
 Retiramos las hamburguesas y las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con queso de vaca curado, tomate, cebolla morada, pepinillos, la Salsa Barbacoa estilo Texas {% post_link Salsa-Barbacoa-estilo-texas %} y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con queso de vaca curado, tomate, cebolla morada, pepinillos, la {% post_link Salsa-Barbacoa-estilo-texas %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

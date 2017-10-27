@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Ternera con Bollo de patata tostado
+title: Hamburguesa Casera de Ternera con Bollo de patata tostado
 
 tags:
 - Hamburguesas
@@ -25,17 +25,17 @@ date: 2017-09-28 06:01:23
 - 1 cucharadita de cebolla en polvo
 - 1/3 cucharadita de sal de ajo
 - 1 cucharadita de mostaza de Dijon
-- 2 cucharadas soperas de Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %}
+- 2 cucharadas soperas de {% post_link Salsa-Ketchup-Casera %}
 - 3 tomates
 - 1 cebolla
 - 1 Huevo
 - 12 lonchas de queso
-- Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %}
-- 6 bollos de patata tostados {% post_link Bollos-de-patata-tostados %}
+- {% post_link Salsa-de-tomate-casera %}
+- 6 {% post_link Bollos-de-patata-tostados %}
 
 ### Preparación
 
-En un bol grande batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal de ajo, la Salsa de Ketchup Casera {% post_link Salsa-Ketchup-Casera %} y la mostaza de Dijon hasta que se combinen bien. No
+En un bol grande batimos un huevo y lo mezclamos con la carne picada de Ternera, la cebolla en polvo, la sal de ajo, la {% post_link Salsa-Ketchup-Casera %} y la mostaza de Dijon hasta que se combinen bien. No
 hay que presar demasiado, para que la carne no se quede dura.
 
 Nota: Si no vamos a hacer inmediatamente las hamburguesas, podemos tapar el bol con film transparente y dejamos reposar la carne en el frigorífico.
@@ -52,7 +52,7 @@ Retiramos las hamburguesas con una pala para fritos metálica y las trasladamos 
 
 Las dejamos reposar durante unos minutos y luego las añadimos a los panecillos.
 
-Decoramos nuestras hamburguesas caseras de ternera con el tomate, cebolla, la Salsa de Tomate Casera {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
+Decoramos nuestras hamburguesas caseras de ternera con el tomate, cebolla, la {% post_link Salsa-de-tomate-casera %} y las servimos inmediatamente.
 
 
 ¿Qué os parece la receta?

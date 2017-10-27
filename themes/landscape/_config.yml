@@ -28,6 +28,7 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
+- collaborate_with
 # - twitterfeed
 
 # Sitemap
@@ -46,7 +47,7 @@ show_count: false
 
 # Other Services
 google-site-verification: -O9TBic0q6AxstDKl1Jeg-FyNMsekiBTiONCKiRK1eg
-google_analytics:
+google_analytics: UA-100401749-1
 favicon: \favicon.png
 
 # Open graph
