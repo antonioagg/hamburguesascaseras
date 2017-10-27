@@ -31,7 +31,6 @@ date: 2017-09-28 06:12:27
 - 1 Cebolla
 - 150 gr de queso partido en lonchas.
 - {% post_link Salsa-casera %}
-- Salsa Casera {% post_link Salsa-casera %}
 - 8 lonchas de pepinillos dulces
 - 8 lonchas de bacon
 - 4 panecillos
