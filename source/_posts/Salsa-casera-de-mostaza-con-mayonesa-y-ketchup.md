@@ -5,13 +5,13 @@ title: Salsa Casera de mostaza con mayonesa y ketchup
 tags:
 - Salsa Casera
 categories :
-- Salsas
+- Salsas Caseras
 
 comments: true
 date: 2017-10-27 04:55:40
 ---
 ---
-{% asset_img Salsa-casera-de-mostaza-con-mayonesa-y-ketchup.jpg Salsa Casera de mostaza con mayonesa y ketchup %}
+{% asset_img Salsa-casera-de-mostaza-con-mayonesa-y-ketchup.JPG Salsa Casera de mostaza con mayonesa y ketchup %}
 
 
 ---

@@ -11,7 +11,7 @@ comments: true
 date: 2017-08-26 09:17:50
 ---
 ---
-{% asset_img Salsa-Barbacoa-estilo-texas.jpg Salsa Barbacoa estilo texas %}
+{% asset_img Salsa-Barbacoa-estilo-texas.JPG Salsa Barbacoa estilo texas %}
 
 
 ---

@@ -13,7 +13,7 @@ comments: true
 date: 2017-08-26 09:22:21
 ---
 ---
-{% asset_img Bollos-de-patata-tostados.jpg Bollos de patata tostados %}
+{% asset_img Bollos-de-patata-tostados.JPG Bollos de patata tostados %}
 
 
 ---

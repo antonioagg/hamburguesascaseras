@@ -6,7 +6,6 @@ title: Receta Casera de Hamburguesa de cerdo marinada con queso
 tags:
 - Hamburguesas
 - Carne de Cerdo
-- Espinacas
 categories :
 - Hamburguesas Caseras
 
