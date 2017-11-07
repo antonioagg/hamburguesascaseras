@@ -12,7 +12,7 @@ comments: true
 date: 2017-07-05 05:41:54
 ---
 ---
-{% asset_img Hamburguesa-de-Pollo.jpg Hamburguesa de Pollo con Huevo %}
+{% asset_img Hamburguesa-de-Pollo-con-Huevo.jpg Hamburguesa Casera de Pollo con Huevo Frito %}
 
 
 ---

@@ -33,8 +33,6 @@ date: 2017-11-07 03:50:48
 - 8 pepinillos dulces
 - Un puñado de hojas frescas de lechuga de Batavia
 
-
-
 ### Preparación
 
 En primer lugar con limpiamos bien del salmón de espinas y grasa, posteriormente lo picamos con un cuchillo y reservamos. Troceamos en juliana el puerro, reservamos.
