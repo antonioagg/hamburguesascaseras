@@ -12,7 +12,7 @@ date: 2017-09-28 05:31:09
 
 ---
 ---
-{% asset_img Cebolla-caramelizada.jpg Cebolla Caramelizada %}
+{% asset_img Cebolla-caramelizada.JPG Cebolla Caramelizada %}
 
 
 ---

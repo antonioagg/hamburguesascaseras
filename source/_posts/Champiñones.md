@@ -4,7 +4,7 @@ title: Hamburguesa Casera de Pollo con champiñones
 
 tags:
 - Hamburguesas
-- Salsa de tomate
+- Salsa de Tomate
 - Carne de Pollo
 categories :
 - Hamburguesas Caseras

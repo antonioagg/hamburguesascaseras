@@ -3,7 +3,7 @@ layout: '[post]'
 title: Salsa de Ketchup Casera
 
 tags:
-- Salsa Ketchup
+- Salsa de Ketchup
 categories :
 - Salsas Caseras
 

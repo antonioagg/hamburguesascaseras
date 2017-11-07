@@ -11,7 +11,7 @@ date: 2017-10-27 04:27:42
 
 ---
 ---
-{% asset_img salsa-tomate-con-berenjena-y-queso.jpg Salsa de tomate casera con berenjena y queso %}
+{% asset_img salsa-tomate-con-berenjena-y-queso.JPG Salsa de tomate casera con berenjena y queso %}
 
 
 ---

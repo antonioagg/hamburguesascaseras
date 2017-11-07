@@ -1,11 +1,11 @@
 ---
 layout: '[post]'
-title: Hamburguesa de Cerdo y Ternera marinada con queso y bacon berenjena y queso
+title: Hamburguesa de Cerdo y Ternera marinada con queso, bacon y mostaza antigua
 
 tags:
 - Hamburguesas
 - Carne de Ternera
-- carne de Cerdo
+- Carne de Cerdo
 categories :
 - Hamburguesas Caseras
 
@@ -13,7 +13,7 @@ comments: true
 date: 2017-10-27 05:34:46
 ---
 ---
-{% asset_img Hamburguesa-de-Cerdo-ternera-marinada-con-queso-y-bacon.jpg Hamburguesa de Cerdo y Ternera marinada con queso y bacon berenjena y queso %}
+{% asset_img Hamburguesa-de-Cerdo-ternera-marinada-con-queso-y-bacon.jpg Hamburguesa de Cerdo y Ternera marinada con queso, bacon y mostaza antigua %}
 
 
 ---
