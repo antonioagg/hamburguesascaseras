@@ -13,7 +13,7 @@ comments: true
 date: 2017-11-07 03:50:48
 ---
 ---
-{% asset_img Hamburguesa-de-salmon.JPG Receta Casera de Hamburguesa de salmón y verduras
+{% asset_img Hamburguesa-de-salmon.JPG Receta Casera de Hamburguesa de salmón y verduras %}
 
 
 ---
