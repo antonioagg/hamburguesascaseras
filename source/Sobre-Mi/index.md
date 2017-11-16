@@ -8,7 +8,7 @@ Adoro comer hamburguesas, pero lo que realmente me apasiona es cocinarlas, inves
 La historia de este blog comienza hace tres años. Por aquel entonces mi idea principal era montar una pequeña hamburguesería, un local pequeño con pocas mesas en el que se pudiera degustar una buena hamburguesa acompañada de una buena birra, en un ambiente familiar y cercano.
 Ya tenía todo el proyecto desarrollado en mi cabeza y los bocetos en mi ordenador pero… faltaba lo principal para montar un negocio: el dinero… un dinero que no pude conseguir y que hizo que aquel maravilloso proyecto se quedara apartado en un rincón de mi corazón.
 
-Después de que pasara un tiempo y me recuperara de aquel duro golpe de realidad, pensé que al menos podría compartir con el mundo todas esas recetas de hamburguesas que había ido anotando en mi recetario a lo largo de los años.
+Después de que pasara un tiempo y me recuperara de aquel duro golpe de realidad, pensé que al menos podría compartir con el mundo todas esas recetas de hamburguesas que había ido anotando en mi recetario a lo largo de los años, y ya os digo con son muy numerosas.
 
 Aprovechando mis conocimientos en todo lo relacionado con el diseño y la programación web, decidí crear este blog. Asi he aunado dos de mis pasiones: el diseño y las hamburguesas.
 
