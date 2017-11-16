@@ -19,7 +19,7 @@ Una vez explicado el por qué y el cómo de este blog, os preguntareis ¿Qué ti
 
 Muy fácil, quiero que me conozcáis.
 
-Os diré que cada una de las recetas que iré subiendo a lo largo de las semanas están hechas con creatividad, paciencia y mucha imaginación. Utilizando ingredientes de calidad.
+Os diré que cada una de las recetas que iré subiendo a lo largo de las semanas están hechas con creatividad, paciencia, mucha imaginación y sobre todo cariño. Utilizando ingredientes de calidad.
 
 Además de recetas de hamburguesas iré subiendo poco a poco recetas de salsas, guarniciones, macerados para las carnes, e incluso panecillos.
 
