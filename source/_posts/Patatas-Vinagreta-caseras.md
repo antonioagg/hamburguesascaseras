@@ -4,7 +4,7 @@ title: Receta de Patatas caseras a la Vinagreta
 
 tags:
 - Patatas caseras
-categories :
+categories:
 - Guarniciones
 comments: true
 date: 2017-11-07 03:39:52
