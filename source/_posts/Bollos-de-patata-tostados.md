@@ -37,7 +37,7 @@ date: 2017-08-26 09:22:21
 
 A continuación vamos a explicar cómo realizar estos ricos bollos de patatas tostados caseros.
 
-Preparamos el ajo asado:
+Preparamos el ajo asado :
 
 Colocamos la bandeja en el centro del horno y precalentamos el horno a 210 grados centígrados.
 
